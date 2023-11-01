@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Video-Calling/static/css/main.073c9b0a.css",
+    "main.js": "/Video-Calling/static/js/main.23c3e91b.js",
+    "index.html": "/Video-Calling/index.html",
+    "main.073c9b0a.css.map": "/Video-Calling/static/css/main.073c9b0a.css.map",
+    "main.23c3e91b.js.map": "/Video-Calling/static/js/main.23c3e91b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.23c3e91b.js"
+  ]
+}
